@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f80c5</color>
+    <color name="colorPrimaryDark">#2f80c5</color>
+
+    <color name="myBackgroundColor">#e0ecf8</color>
+
+    <color name="myBlue">#336892</color>
+
+    <color name="myGray">#aaa</color>
+    <color name="myTextColorPressed">#5682a6</color>
+
+    <color name="myTextColor">#e0ecf8</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+</resources>

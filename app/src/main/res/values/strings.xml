@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pilgrimnize</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="write_a_report">Write a report</string>
+    <string name="write_here_your_report_about_the_broblem">write here your report about the broblem</string>
+    <string name="forgot_passwoed">Forgot passwoed?</string>
+</resources>
